@@ -6,4 +6,23 @@ Se crea una carpeta .git dentro del folder de tu proyecto y a partir de aquí pu
 
 En que cuando un archivo esta en el repositorio solo lo puede visualizar el propietario y esto no es apto para un trabajo en equipo, y cuando un archivo esta en el directorio de trabajo puede ser compartido con otros.
 
+¿Cómo puede usar el área de ensayo para asegurarse de tener una confirmación por cambio lógico?
+
+haciendo un git diff --staged para ver los cambios
+
+¿Cuáles son algunas situaciones en las que las sucursales serían útiles para mantener su historial organizado? ¿Cómo ayudarían las ramas?
+
+las ramas ayudarian para cuando se hacen cambios al codigo original o principal y se quiere mantener ambos
+
+¿Cómo te ayudan los diagramas a visualizar la estructura de la rama?
+
+permiten que veas el camino que llevan los cambios que van actualizandose.
+
+¿Cuál es el resultado de fusionar dos ramas juntas? ¿Por qué lo representamos en el diagrama como lo hacemos?
+
+El resultado es la unión del código original junto con lo nuevo de las ramas que se desprendan de el.
+
+¿Cuáles son los pros y los contras de la fusión automática de Git frente a siempre hacer fusiones manualmente?
+
+se debe tener un conocimiento bueno para no tener o arreglar problemas que se presenten, pero es bueno pues evita tener que esta checando cambio por cambio en los archivos a unir.
  
