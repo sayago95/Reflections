@@ -1,0 +1,9 @@
+¿Qué sucede cuando inicializas un repositorio? ¿Por qué necesitas hacerlo?
+
+Se crea una carpeta .git dentro del folder de tu proyecto y a partir de aquí puedes empezar a hacer commits y subir los cambios que haces locales a un repositorio en la nube.
+
+¿En qué se diferencia el área de preparación del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
+
+En que cuando un archivo esta en el repositorio solo lo puede visualizar el propietario y esto no es apto para un trabajo en equipo, y cuando un archivo esta en el directorio de trabajo puede ser compartido con otros.
+
+ 

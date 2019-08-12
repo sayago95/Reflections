@@ -1,0 +1,28 @@
+1.¿Cómo la visualización de una diferencia entre dos versiones de un archivo le ayudó a ver el error que fue presentado?
+
+Pude ir comparando palabra por palabra, además que al solo mostrarme la lineas que tenian diferencia fue más facil, y hasta se puede checar si hay algun error ortografico o de sintaxis.
+
+
+2.¿Cómo podría tener fácil acceso a toda la historia de un archivo hacer que un programador eficiente a largo plazo?
+
+pues teniendo un control de versiones de un archivo.
+
+3.¿Cuáles crees que son los pros y los contras de elegir manualmente cuándo crear una confirmación, como lo haces en Git,vs tener versiones guardadas automáticamente, como Google documentos lo hace?
+
+al crear manualmente las confirmaciones creamos versiones que tienen sentido en caso de volver a ellas, aunque el hacerlas manualmente es de gran ayuda pero llega a haber algunas que no tienen sentido.
+
+4.¿Por qué crees que algunos sistemas de control de versiones, como Git, permiten guardar archivos en una confirmación, mientras que otros, como Google Docs, tratar cada archivo por separado?
+
+para poder guardar los cambios hechos aunque se hayan modificado varios archivos, pues al guardar los cambios en cada archivo por separado se volveria confuso.
+
+5.¿Cómo puede utilizar los comandos git log y git diff para ver el historial de archivos?
+
+git log se usa para ver los cambios o los commits hechos y los autores de dichos cambios y con un git diff se puede comparar los 2 archivos para ver que cambió de un archivo a otro
+
+6.¿Cómo podría usar el control de versiones hacer que usted sea más seguro para hacer cambios que podría romper algo?
+
+teniendo una versión anterior uno puede hacer cambios mas grandes y sin miedo de perder todo, en caso de que ya no funcione, se pude regresar a los cambios anteriores.
+
+7.Ahora que tiene su área de trabajo configurada, ¿para qué desea intentar usar Git?
+
+Para todos mis proyectos en un futuro, actualmente ya es casi obligatorio tener estos conocimientos.
